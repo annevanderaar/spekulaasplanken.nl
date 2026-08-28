@@ -1,0 +1,78 @@
+{
+  "site": {
+    "title": "Speculaas Moulds",
+    "subtitle": "Speculaas moulds by Anton and Willy"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Speculaas moulds",
+    "antiqueProducts": "Antique speculaas moulds",
+    "recipe": "Recipe",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "Traditional wooden speculaas moulds by Anton and Willy, made with care and a love for craftsmanship.",
+    "navigation": "Navigation",
+    "contact": "Contact details",
+    "by": "Speculaas moulds by"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Do you have a question or would you like to order a speculaas mould? Feel free to contact us.",
+    "phone": "Telephone",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "address": "Address",
+    "country": "The Netherlands"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Traditional craftsmanship",
+      "title": "Speculaas moulds with a story",
+      "description": "Discover our wooden speculaas moulds with traditional and distinctive designs. Browse our collection and simply contact us if you would like to order a mould.",
+      "productsButton": "View our speculaas moulds",
+      "contactButton": "Contact us",
+      "imageAlt": "Traditional wooden speculaas mould",
+      "cardTitle": "Anton & Willy",
+      "cardText": "A love for traditional craftsmanship"
+    },
+    "about": {
+      "eyebrow": "About our moulds",
+      "title": "A centuries-old tradition",
+      "description": "Wooden speculaas moulds have been used for generations to create beautiful shapes and designs in biscuit dough.",
+      "descriptionSecond": "From traditional figures to distinctive designs, every mould has its own appearance and character.",
+      "imageAlt": "Detail of a wooden speculaas mould"
+    },
+    "featured": {
+      "eyebrow": "Our collection",
+      "title": "A selection of our speculaas moulds",
+      "description": "Discover a small selection from our collection. Visit the overview to see all available speculaas moulds.",
+      "viewAll": "View all moulds",
+      "viewProduct": "View mould",
+      "products": {
+        "first": {
+          "name": "Heart Speculaas Mould"
+        },
+        "second": {
+          "name": "Owl Speculaas Mould"
+        },
+        "third": {
+          "name": "Santa Speculaas Mould"
+        }
+      }
+    },
+    "antique": {
+      "eyebrow": "Unique pieces",
+      "title": "Antique Speculaas Moulds",
+      "description": "Alongside our speculaas moulds, we also have antique pieces available. Wooden moulds with their own history and character.",
+      "button": "View antique moulds",
+      "imageAlt": "Antique wooden speculaas mould"
+    },
+    "contact": {
+      "eyebrow": "Order a mould",
+      "title": "Interested in a speculaas mould?",
+      "description": "Would you like to order a mould or do you have a question? Contact Anton and Willy and we will be happy to help.",
+      "button": "Contact us"
+    }
+  }
+}

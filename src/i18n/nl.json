@@ -1,0 +1,78 @@
+{
+  "site": {
+    "title": "Spekulaasplanken",
+    "subtitle": "Spekulaasplanken van Anton en Willy"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Spekulaasplanken",
+    "antiqueProducts": "Antieke spekulaasplanken",
+    "recipe": "Recept",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "Traditionele houten spekulaasplanken van Anton en Willy, met zorg en liefde voor de ambacht.",
+    "navigation": "Navigatie",
+    "contact": "Contactgegevens",
+    "by": "Spekulaasplanken van"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Heeft u een vraag of wilt u een spekulaasplank bestellen? Neem gerust contact met ons op.",
+    "phone": "Telefoon",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp",
+    "address": "Adres",
+    "country": "Nederland"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Traditioneel vakmanschap",
+      "title": "Spekulaasplanken met een verhaal",
+      "description": "Ontdek onze houten spekulaasplanken met traditionele en bijzondere motieven. Bekijk het assortiment en neem eenvoudig contact met ons op wanneer u een plank wilt bestellen.",
+      "productsButton": "Bekijk de spekulaasplanken",
+      "contactButton": "Neem contact op",
+      "imageAlt": "Traditionele houten spekulaasplank",
+      "cardTitle": "Anton & Willy",
+      "cardText": "Liefde voor traditioneel vakmanschap"
+    },
+    "about": {
+      "eyebrow": "Over onze planken",
+      "title": "Een eeuwenoude traditie",
+      "description": "Spekulaasplanken worden al generaties lang gebruikt om koekdeeg te voorzien van prachtige vormen en afbeeldingen.",
+      "descriptionSecond": "Van klassieke figuren tot bijzondere motieven: iedere plank heeft zijn eigen uitstraling en karakter.",
+      "imageAlt": "Detail van een houten spekulaasplank"
+    },
+    "featured": {
+      "eyebrow": "Onze collectie",
+      "title": "Een aantal van onze spekulaasplanken",
+      "description": "Bekijk een kleine selectie uit ons assortiment. Op de overzichtspagina vindt u alle beschikbare spekulaasplanken.",
+      "viewAll": "Bekijk alle planken",
+      "viewProduct": "Bekijk plank",
+      "products": {
+        "first": {
+          "name": "Spekulaasplank Hart"
+        },
+        "second": {
+          "name": "Spekulaasplank Uil"
+        },
+        "third": {
+          "name": "Spekulaasplank Kerstman"
+        }
+      }
+    },
+    "antique": {
+      "eyebrow": "Bijzondere exemplaren",
+      "title": "Antieke spekulaasplanken",
+      "description": "Naast onze spekulaasplanken vindt u bij ons ook antieke exemplaren. Planken met een eigen geschiedenis en karakter.",
+      "button": "Bekijk de antieke planken",
+      "imageAlt": "Antieke houten spekulaasplank"
+    },
+    "contact": {
+      "eyebrow": "Een plank bestellen",
+      "title": "Interesse in een spekulaasplank?",
+      "description": "Wilt u een plank bestellen of heeft u een vraag? Neem contact op met Anton en Willy. We helpen u graag verder.",
+      "button": "Contact opnemen"
+    }
+  }
+}

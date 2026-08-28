@@ -1,0 +1,78 @@
+{
+  "site": {
+    "title": "Spekulatiusbretter",
+    "subtitle": "Spekulatiusbretter von Anton und Willy"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "products": "Spekulatiusbretter",
+    "antiqueProducts": "Antike Spekulatiusbretter",
+    "recipe": "Rezept",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "description": "Traditionelle Spekulatiusbretter aus Holz von Anton und Willy, gefertigt mit Sorgfalt und Liebe zum Handwerk.",
+    "navigation": "Navigation",
+    "contact": "Kontaktdaten",
+    "by": "Spekulatiusbretter von"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "description": "Haben Sie eine Frage oder möchten Sie ein Spekulatiusbrett bestellen? Kontaktieren Sie uns gerne.",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "whatsapp": "WhatsApp",
+    "address": "Adresse",
+    "country": "Niederlande"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Traditionelles Handwerk",
+      "title": "Spekulatiusbretter mit Geschichte",
+      "description": "Entdecken Sie unsere Spekulatiusbretter aus Holz mit traditionellen und besonderen Motiven. Sehen Sie sich unser Sortiment an und kontaktieren Sie uns ganz einfach, wenn Sie ein Brett bestellen möchten.",
+      "productsButton": "Spekulatiusbretter ansehen",
+      "contactButton": "Kontakt aufnehmen",
+      "imageAlt": "Traditionelles Spekulatiusbrett aus Holz",
+      "cardTitle": "Anton & Willy",
+      "cardText": "Liebe zum traditionellen Handwerk"
+    },
+    "about": {
+      "eyebrow": "Über unsere Bretter",
+      "title": "Eine jahrhundertealte Tradition",
+      "description": "Spekulatiusbretter werden seit Generationen verwendet, um Keksteig mit wunderschönen Formen und Motiven zu versehen.",
+      "descriptionSecond": "Von klassischen Figuren bis hin zu besonderen Motiven: Jedes Brett hat seinen eigenen Charakter.",
+      "imageAlt": "Detail eines Spekulatiusbretts aus Holz"
+    },
+    "featured": {
+      "eyebrow": "Unsere Kollektion",
+      "title": "Eine Auswahl unserer Spekulatiusbretter",
+      "description": "Entdecken Sie eine kleine Auswahl aus unserem Sortiment. Auf der Übersichtsseite finden Sie alle verfügbaren Spekulatiusbretter.",
+      "viewAll": "Alle Bretter ansehen",
+      "viewProduct": "Brett ansehen",
+      "products": {
+        "first": {
+          "name": "Spekulatiusbrett Herz"
+        },
+        "second": {
+          "name": "Spekulatiusbrett Eule"
+        },
+        "third": {
+          "name": "Spekulatiusbrett Weihnachtsmann"
+        }
+      }
+    },
+    "antique": {
+      "eyebrow": "Besondere Stücke",
+      "title": "Antike Spekulatiusbretter",
+      "description": "Neben unseren Spekulatiusbrettern finden Sie bei uns auch antike Exemplare. Bretter mit einer eigenen Geschichte und besonderem Charakter.",
+      "button": "Antike Bretter ansehen",
+      "imageAlt": "Antikes Spekulatiusbrett aus Holz"
+    },
+    "contact": {
+      "eyebrow": "Ein Brett bestellen",
+      "title": "Interesse an einem Spekulatiusbrett?",
+      "description": "Möchten Sie ein Brett bestellen oder haben Sie eine Frage? Nehmen Sie Kontakt mit Anton und Willy auf. Wir helfen Ihnen gerne weiter.",
+      "button": "Kontakt aufnehmen"
+    }
+  }
+}
