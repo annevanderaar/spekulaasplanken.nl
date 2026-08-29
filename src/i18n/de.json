@@ -14,16 +14,28 @@
     "description": "Traditionelle Spekulatiusbretter aus Holz von Anton und Willy, gefertigt mit Sorgfalt und Liebe zum Handwerk.",
     "navigation": "Navigation",
     "contact": "Kontaktdaten",
-    "by": "Spekulatiusbretter von"
+    "by": "Website erstellt von"
   },
   "contact": {
+    "eyebrow": "Wir helfen Ihnen gerne",
     "title": "Kontakt",
-    "description": "Haben Sie eine Frage oder möchten Sie ein Spekulatiusbrett bestellen? Kontaktieren Sie uns gerne.",
+    "description": "Haben Sie eine Frage zu unseren Spekulatiusbrettern oder möchten Sie ein Brett bestellen? Kontaktieren Sie uns gerne.",
+    "detailsEyebrow": "Anton & Willy",
+    "detailsTitle": "Nehmen Sie gerne Kontakt mit uns auf",
+    "detailsDescription": "Haben Sie Fragen zu einem Spekulatiusbrett, wünschen Sie weitere Informationen oder möchten Sie eine Bestellung aufgeben? Sie erreichen uns telefonisch oder per E-Mail.",
     "phone": "Telefon",
     "email": "E-Mail",
     "whatsapp": "WhatsApp",
     "address": "Adresse",
-    "country": "Niederlande"
+    "country": "Niederlande",
+    "emailButton": "E-Mail senden",
+    "phoneButton": "Anrufen",
+    "imageAlt": "Anton und Willy",
+    "imageText": "Spekulatiusbretter von Anton und Willy",
+    "order": {
+      "title": "Ein Spekulatiusbrett bestellen?",
+      "description": "Haben Sie ein Brett gefunden, das Sie bestellen möchten? Geben Sie in Ihrer Nachricht den Namen des Spekulatiusbretts an, für das Sie sich interessieren. Wir setzen uns anschließend mit Ihnen bezüglich der Bestellung in Verbindung."
+    }
   },
   "home": {
     "hero": {
@@ -73,6 +85,74 @@
       "title": "Interesse an einem Spekulatiusbrett?",
       "description": "Möchten Sie ein Brett bestellen oder haben Sie eine Frage? Nehmen Sie Kontakt mit Anton und Willy auf. Wir helfen Ihnen gerne weiter.",
       "button": "Kontakt aufnehmen"
+    }
+  },
+  "products": {
+    "eyebrow": "Unsere Kollektion",
+    "title": "Spekulatiusbretter",
+    "description": "Entdecken Sie unsere Spekulatiusbretter aus Holz mit traditionellen und besonderen Motiven.",
+    "dimensions": "Maße",
+    "price": "Preis",
+    "items": {
+      "heart": {
+        "name": "Spekulatiusbrett Herz",
+        "description": "Ein Spekulatiusbrett aus Holz mit einem traditionellen Herzmotiv."
+      },
+      "owl": {
+        "name": "Spekulatiusbrett Eule",
+        "description": "Ein besonderes Spekulatiusbrett aus Holz mit einem Eulenmotiv."
+      },
+      "santa": {
+        "name": "Spekulatiusbrett Weihnachtsmann",
+        "description": "Ein traditionelles Spekulatiusbrett mit einem festlichen Weihnachtsmannmotiv."
+      }
+    }
+  },
+  "antiqueProducts": {
+    "eyebrow": "Besondere Stücke",
+    "title": "Antike Spekulatiusbretter",
+    "description": "Entdecken Sie unsere antiken Spekulatiusbretter, jedes mit seiner eigenen Geschichte und Ausstrahlung.",
+    "items": {
+      "heart": {
+        "name": "Antikes Spekulatiusbrett Herz",
+        "description": "Ein antikes Spekulatiusbrett aus Holz mit einem klassischen Herzmotiv."
+      },
+      "horse": {
+        "name": "Antikes Spekulatiusbrett Pferd",
+        "description": "Ein charaktervolles antikes Spekulatiusbrett mit einem Pferdmotiv."
+      },
+      "windmill": {
+        "name": "Antikes Spekulatiusbrett Windmühle",
+        "description": "Ein antikes Spekulatiusbrett aus Holz mit einem traditionellen Windmühlenmotiv."
+      }
+    }
+  },
+  "recipe": {
+    "eyebrow": "Traditionelles Rezept",
+    "title": "Spekulatius Rezept",
+    "description": "Das traditionelle Spekulatiusrezept der Familie Van der Aar.",
+    "ingredients": {
+      "title": "Zutaten",
+      "butter": "Butter",
+      "salt": "Salz",
+      "eggs": "Eier",
+      "brownSugar": "Brauner Zucker",
+      "flour": "Mehl",
+      "bakingPowder": "Backpulver",
+      "spices": "Spekulatiusgewürz",
+      "extraFlour": "Zusätzliches Mehl zum Bestreuen des Spekulatiusbretts."
+    },
+    "bakingTimeLabel": "Backzeit:",
+    "bakingTime": "15 bis 20 Minuten",
+    "instructions": {
+      "title": "Zubereitung",
+      "step1": "Butter, Salz, Eier, Zucker, Mehl und Spekulatiusgewürz zu einem gleichmäßigen Teig verkneten. Den Teig anschließend 24 Stunden kühl ruhen lassen. Wird ein neues Spekulatiusbrett zum ersten Mal verwendet, dieses leicht einfetten. Den Backofen zunächst auf 200 Grad vorheizen und anschließend auf 175 Grad einstellen. Das Backblech mit Backpapier auslegen.",
+      "step2": "Das Spekulatiusbrett leicht mit Mehl bestreuen und darauf achten, dass alle Konturen gut mit Mehl bedeckt sind. Überschüssiges Mehl aus dem Brett klopfen. Anschließend ein Stück Teig nehmen und gleichmäßig mit der Hand in die Form drücken. Den überstehenden Teig mit einem Messer oder Schneidedraht bündig abschneiden. Das Brett umdrehen und leicht klopfen, damit die Teigfigur aus der Form fällt.",
+      "tip": "Das Mehl verhindert, dass der Teig am Spekulatiusbrett kleben bleibt."
+    },
+    "success": {
+      "title": "Viel Erfolg beim Backen!",
+      "subtitle": "Familie Van der Aar"
     }
   }
 }

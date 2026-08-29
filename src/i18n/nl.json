@@ -14,16 +14,28 @@
     "description": "Traditionele houten spekulaasplanken van Anton en Willy, met zorg en liefde voor de ambacht.",
     "navigation": "Navigatie",
     "contact": "Contactgegevens",
-    "by": "Spekulaasplanken van"
+    "by": "Website gemaakt door"
   },
   "contact": {
+    "eyebrow": "We helpen u graag",
     "title": "Contact",
-    "description": "Heeft u een vraag of wilt u een spekulaasplank bestellen? Neem gerust contact met ons op.",
+    "description": "Heeft u een vraag over onze spekulaasplanken of wilt u een plank bestellen? Neem gerust contact met ons op.",
+    "detailsEyebrow": "Anton & Willy",
+    "detailsTitle": "Neem gerust contact met ons op",
+    "detailsDescription": "Heeft u vragen over een spekulaasplank, wilt u meer informatie of wilt u een bestelling plaatsen? U kunt ons telefonisch of per e-mail bereiken.",
     "phone": "Telefoon",
     "email": "E-mail",
     "whatsapp": "WhatsApp",
     "address": "Adres",
-    "country": "Nederland"
+    "country": "Nederland",
+    "emailButton": "Stuur een e-mail",
+    "phoneButton": "Bel ons",
+    "imageAlt": "Anton en Willy",
+    "imageText": "Spekulaasplanken van Anton en Willy",
+    "order": {
+      "title": "Een spekulaasplank bestellen?",
+      "description": "Heeft u een plank gevonden die u graag wilt bestellen? Vermeld bij uw bericht de naam van de spekulaasplank waarin u geïnteresseerd bent. Wij nemen vervolgens contact met u op over de bestelling."
+    }
   },
   "home": {
     "hero": {
@@ -73,6 +85,74 @@
       "title": "Interesse in een spekulaasplank?",
       "description": "Wilt u een plank bestellen of heeft u een vraag? Neem contact op met Anton en Willy. We helpen u graag verder.",
       "button": "Contact opnemen"
+    }
+  },
+  "products": {
+    "eyebrow": "Onze collectie",
+    "title": "Spekulaasplanken",
+    "description": "Bekijk onze collectie houten spekulaasplanken met traditionele en bijzondere motieven.",
+    "dimensions": "Afmetingen",
+    "price": "Prijs",
+    "items": {
+      "heart": {
+        "name": "Spekulaasplank Hart",
+        "description": "Een houten spekulaasplank met een traditioneel hartmotief."
+      },
+      "owl": {
+        "name": "Spekulaasplank Uil",
+        "description": "Een bijzondere houten spekulaasplank met een uilenmotief."
+      },
+      "santa": {
+        "name": "Spekulaasplank Kerstman",
+        "description": "Een traditionele spekulaasplank met een feestelijk kerstmanmotief."
+      }
+    }
+  },
+  "antiqueProducts": {
+    "eyebrow": "Bijzondere exemplaren",
+    "title": "Antieke spekulaasplanken",
+    "description": "Ontdek onze antieke spekulaasplanken, ieder met een eigen uitstraling en geschiedenis.",
+    "items": {
+      "heart": {
+        "name": "Antieke spekulaasplank Hart",
+        "description": "Een antieke houten spekulaasplank met een klassiek hartmotief."
+      },
+      "horse": {
+        "name": "Antieke spekulaasplank Paard",
+        "description": "Een karaktervolle antieke spekulaasplank met een traditioneel paard."
+      },
+      "windmill": {
+        "name": "Antieke spekulaasplank Windmolen",
+        "description": "Een antieke houten spekulaasplank met een traditioneel windmolenmotief."
+      }
+    }
+  },
+  "recipe": {
+    "eyebrow": "Traditioneel recept",
+    "title": "Spekulaas recept",
+    "description": "Het traditionele spekulaasrecept van familie Van der Aar.",
+    "ingredients": {
+      "title": "Ingrediënten",
+      "butter": "Boter",
+      "salt": "Zout",
+      "eggs": "Eieren",
+      "brownSugar": "Bruine suiker",
+      "flour": "Bloem",
+      "bakingPowder": "Bakpoeder",
+      "spices": "Spekulaaskruiden",
+      "extraFlour": "Extra bloem om de spekulaasplank mee te bestrooien."
+    },
+    "bakingTimeLabel": "Baktijd:",
+    "bakingTime": "15 tot 20 minuten",
+    "instructions": {
+      "title": "Bereidingswijze",
+      "step1": "Kneed de boter met het zout, de eieren, de suiker, de bloem en de spekulaaskruiden tot een samenhangend deeg. Laat het deeg daarna 24 uur koel rusten. Gebruikt u een nieuwe spekulaasplank voor de eerste keer, vet deze dan licht in. Verwarm de oven eerst voor op 200 graden en stel deze daarna in op 175 graden. Bekleed de bakplaat met bakpapier.",
+      "step2": "Bestrooi de spekulaasplank licht met bloem en zorg ervoor dat alle contouren goed met bloem bedekt zijn. Klop de overtollige bloem uit de plank. Neem vervolgens een stuk deeg en druk dit gelijkmatig met de hand in de vorm. Snijd met een mes of snijdraad het overtollige deeg vlak langs de plank weg. Draai de plank om en klop zachtjes zodat de deegfiguur uit de vorm komt.",
+      "tip": "De bloem zorgt ervoor dat het deeg niet aan de spekulaasplank blijft plakken."
+    },
+    "success": {
+      "title": "Veel succes met bakken!",
+      "subtitle": "Familie Van der Aar"
     }
   }
 }

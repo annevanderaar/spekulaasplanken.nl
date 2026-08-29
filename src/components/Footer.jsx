@@ -119,7 +119,17 @@ export default function Footer() {
                     </p>
 
                     <p>
-                        {t('footer.by')} Anton & Willy
+                        {t("footer.by")}
+
+                        <a
+                            href="https://everlastingwild.nl/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="group relative ml-1 inline-block font-semibold hover:text-white"
+                        >
+                            Everlasting Wild
+                            <span className="absolute -bottom-1 left-0 h-px w-0 bg-white transition-all duration-300 group-hover:w-full" />
+                        </a>
                     </p>
                 </div>
             </div>

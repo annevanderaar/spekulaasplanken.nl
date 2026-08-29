@@ -14,16 +14,28 @@
     "description": "Traditional wooden speculaas moulds by Anton and Willy, made with care and a love for craftsmanship.",
     "navigation": "Navigation",
     "contact": "Contact details",
-    "by": "Speculaas moulds by"
+    "by": "Website made by"
   },
   "contact": {
+    "eyebrow": "We're happy to help",
     "title": "Contact",
-    "description": "Do you have a question or would you like to order a speculaas mould? Feel free to contact us.",
+    "description": "Do you have a question about our speculaas moulds or would you like to order one? Feel free to contact us.",
+    "detailsEyebrow": "Anton & Willy",
+    "detailsTitle": "Feel free to get in touch",
+    "detailsDescription": "Do you have a question about a speculaas mould, would you like more information or would you like to place an order? You can reach us by telephone or email.",
     "phone": "Telephone",
     "email": "Email",
     "whatsapp": "WhatsApp",
     "address": "Address",
-    "country": "The Netherlands"
+    "country": "The Netherlands",
+    "emailButton": "Send an email",
+    "phoneButton": "Call us",
+    "imageAlt": "Anton and Willy",
+    "imageText": "Speculaas moulds by Anton and Willy",
+    "order": {
+      "title": "Would you like to order a speculaas mould?",
+      "description": "Have you found a mould you would like to order? Please include the name of the speculaas mould you are interested in when contacting us. We will then get in touch with you about your order."
+    }
   },
   "home": {
     "hero": {
@@ -73,6 +85,74 @@
       "title": "Interested in a speculaas mould?",
       "description": "Would you like to order a mould or do you have a question? Contact Anton and Willy and we will be happy to help.",
       "button": "Contact us"
+    }
+  },
+  "products": {
+    "eyebrow": "Our collection",
+    "title": "Speculaas Moulds",
+    "description": "Discover our collection of wooden speculaas moulds with traditional and distinctive designs.",
+    "dimensions": "Dimensions",
+    "price": "Price",
+    "items": {
+      "heart": {
+        "name": "Heart Speculaas Mould",
+        "description": "A wooden speculaas mould with a traditional heart design."
+      },
+      "owl": {
+        "name": "Owl Speculaas Mould",
+        "description": "A distinctive wooden speculaas mould featuring an owl design."
+      },
+      "santa": {
+        "name": "Santa Speculaas Mould",
+        "description": "A traditional speculaas mould with a festive Santa design."
+      }
+    }
+  },
+  "antiqueProducts": {
+    "eyebrow": "Unique pieces",
+    "title": "Antique Speculaas Moulds",
+    "description": "Discover our antique speculaas moulds, each with its own appearance and history.",
+    "items": {
+      "heart": {
+        "name": "Antique Heart Speculaas Mould",
+        "description": "An antique wooden speculaas mould featuring a classic heart design."
+      },
+      "horse": {
+        "name": "Antique Horse Speculaas Mould",
+        "description": "A characterful antique speculaas mould featuring an horse design."
+      },
+      "windmill": {
+        "name": "Antique Windmill Speculaas Mould",
+        "description": "An antique wooden speculaas mould featuring a traditional windmill design."
+      }
+    }
+  },
+  "recipe": {
+    "eyebrow": "Traditional recipe",
+    "title": "Speculaas Recipe",
+    "description": "The traditional speculaas recipe from the Van der Aar family.",
+    "ingredients": {
+      "title": "Ingredients",
+      "butter": "Butter",
+      "salt": "Salt",
+      "eggs": "Eggs",
+      "brownSugar": "Brown sugar",
+      "flour": "Flour",
+      "bakingPowder": "Baking powder",
+      "spices": "Speculaas spice mix",
+      "extraFlour": "Extra flour for dusting the speculaas mould."
+    },
+    "bakingTimeLabel": "Baking time:",
+    "bakingTime": "15 to 20 minutes",
+    "instructions": {
+      "title": "Method",
+      "step1": "Knead the butter, salt, eggs, sugar, flour and speculaas spice mix together until a smooth dough forms. Leave the dough to rest in a cool place for 24 hours. When using a new speculaas mould for the first time, lightly grease it. Preheat the oven to 200°C and then reduce the temperature to 175°C. Line a baking tray with baking paper.",
+      "step2": "Lightly dust the speculaas mould with flour and make sure all of the details are covered. Tap out any excess flour. Take a piece of dough and press it evenly into the mould by hand. Use a knife or cutting wire to remove any excess dough flush with the surface of the mould. Turn the mould over and tap it gently so the shaped dough falls out.",
+      "tip": "The flour helps prevent the dough from sticking to the speculaas mould."
+    },
+    "success": {
+      "title": "Good luck with your baking!",
+      "subtitle": "The Van der Aar family"
     }
   }
 }
