@@ -1,9 +1,6 @@
 import { useTranslation } from 'react-i18next';
 
-export default function ProductCard({
-    product,
-    translationPrefix,
-}) {
+export default function ProductCard({product, translationPrefix}) {
     const { t } = useTranslation();
 
     return (
@@ -28,17 +25,17 @@ export default function ProductCard({
                 <div className="mt-6 space-y-2 border-t border-[#E8DDCF] pt-5 text-sm">
                     <div className="flex justify-between gap-4">
                         <span className="text-[#7A685A]">
-                          {t('products.dimensions')}
+                            {t('products.dimensions')}
                         </span>
 
-                            <span className="font-medium text-[#33251C]">
+                        <span className="font-medium text-[#33251C]">
                             {product.dimensions}
                         </span>
                     </div>
 
                     <div className="flex justify-between gap-4">
                         <span className="text-[#7A685A]">
-                          {t('products.price')}
+                            {t('products.price')}
                         </span>
 
                         <span className="font-semibold text-[#8B4A32]">

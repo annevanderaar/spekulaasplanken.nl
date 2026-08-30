@@ -2,6 +2,8 @@ import { Routes, Route } from 'react-router-dom';
 
 import Navigation from './components/Navigation.jsx';
 import Footer from './components/Footer.jsx';
+import ScrollToTop from './components/ScrollToTop.jsx';
+import PageTitle from './components/PageTitle.jsx';
 
 import Home from './pages/Home.jsx';
 import Products from './pages/Products.jsx';
@@ -12,6 +14,9 @@ import Contact from './pages/Contact.jsx';
 export default function App() {
     return (
         <>
+            <ScrollToTop />
+            <PageTitle />
+
             <Navigation />
 
             <Routes>

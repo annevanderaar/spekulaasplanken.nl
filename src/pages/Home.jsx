@@ -62,11 +62,11 @@ export default function Home() {
                     </div>
 
                     <div className="relative">
-                        <div className="overflow-hidden rounded-[2rem] bg-[#E8DDCF]">
+                        <div className="overflow-hidden rounded-4xl bg-[#E8DDCF]">
                             <img
                                 src={hero}
                                 alt={t('home.hero.imageAlt')}
-                                className="aspect-[4/3] h-full w-full object-cover"
+                                className="aspect-4/3 h-full w-full object-cover"
                             />
                         </div>
 
@@ -86,11 +86,11 @@ export default function Home() {
             <section className="bg-white">
                 <div className="mx-auto grid max-w-7xl items-center gap-12 px-6 py-20 lg:grid-cols-2">
                     <div className="order-2 lg:order-1">
-                        <div className="overflow-hidden rounded-[2rem] bg-[#E8DDCF]">
+                        <div className="overflow-hidden rounded-4xl bg-[#E8DDCF]">
                             <img
                                 src={hero}
                                 alt={t('home.about.imageAlt')}
-                                className="aspect-[4/3] h-full w-full object-cover"
+                                className="aspect-4/3 h-full w-full object-cover"
                             />
                         </div>
                     </div>
@@ -189,11 +189,11 @@ export default function Home() {
                         </Link>
                     </div>
 
-                    <div className="overflow-hidden rounded-[2rem] bg-[#E8DDCF]">
+                    <div className="overflow-hidden rounded-4xl bg-[#E8DDCF]">
                         <img
                             src={antique}
                             alt={t('home.antique.imageAlt')}
-                            className="aspect-[4/3] h-full w-full object-cover"
+                            className="aspect-4/3 h-full w-full object-cover"
                         />
                     </div>
                 </div>

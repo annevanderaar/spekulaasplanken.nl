@@ -32,11 +32,11 @@ export default function Contact() {
             <section className="bg-[#FFFDFC]">
                 <div className="mx-auto grid max-w-7xl items-center gap-12 px-6 py-16 lg:grid-cols-2 lg:gap-20 lg:py-20">
                     <div className="relative">
-                        <div className="overflow-hidden rounded-[2rem] bg-[#E8DDCF]">
+                        <div className="overflow-hidden rounded-4xl bg-[#E8DDCF]">
                             <img
                                 src={hero}
                                 alt={t('contact.imageAlt')}
-                                className="aspect-[4/3] h-full w-full object-cover"
+                                className="aspect-4/3 h-full w-full object-cover"
                             />
                         </div>
 

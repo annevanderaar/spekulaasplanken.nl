@@ -8,7 +8,9 @@
     "products": "Spekulatiusbretter",
     "antiqueProducts": "Antike Spekulatiusbretter",
     "recipe": "Rezept",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
   },
   "footer": {
     "description": "Traditionelle Spekulatiusbretter aus Holz von Anton und Willy, gefertigt mit Sorgfalt und Liebe zum Handwerk.",

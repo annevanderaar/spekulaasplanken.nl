@@ -8,7 +8,9 @@
     "products": "Speculaas moulds",
     "antiqueProducts": "Antique speculaas moulds",
     "recipe": "Recipe",
-    "contact": "Contact"
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
   },
   "footer": {
     "description": "Traditional wooden speculaas moulds by Anton and Willy, made with care and a love for craftsmanship.",

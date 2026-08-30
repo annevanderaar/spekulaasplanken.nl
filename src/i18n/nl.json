@@ -8,7 +8,9 @@
     "products": "Spekulaasplanken",
     "antiqueProducts": "Antieke spekulaasplanken",
     "recipe": "Recept",
-    "contact": "Contact"
+    "contact": "Contact",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten"
   },
   "footer": {
     "description": "Traditionele houten spekulaasplanken van Anton en Willy, met zorg en liefde voor de ambacht.",

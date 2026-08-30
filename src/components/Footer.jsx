@@ -4,6 +4,14 @@ import { useTranslation } from 'react-i18next';
 export default function Footer() {
     const { t } = useTranslation();
 
+    const footerItems = [
+        { link: '/', name: 'navigation.home' },
+        { link: '/spekulaasplanken', name: 'navigation.products' },
+        { link: '/antieke-spekulaasplanken', name: 'navigation.antiqueProducts' },
+        { link: '/recept', name: 'navigation.recipe' },
+        { link: '/contact', name: 'navigation.contact' }
+    ]
+
     return (
         <footer className="bg-[#33251C] text-[#F8F3EA]">
             <div className="mx-auto max-w-7xl px-6">
@@ -27,40 +35,14 @@ export default function Footer() {
                         </h2>
 
                         <nav className="mt-5 flex flex-col items-start gap-3 text-[#CDBEAF]">
-                            <Link
-                                to="/"
-                                className="transition-colors hover:text-white"
-                            >
-                                {t('navigation.home')}
-                            </Link>
-
-                            <Link
-                                to="/spekulaasplanken"
-                                className="transition-colors hover:text-white"
-                            >
-                                {t('navigation.products')}
-                            </Link>
-
-                            <Link
-                                to="/antieke-spekulaasplanken"
-                                className="transition-colors hover:text-white"
-                            >
-                                {t('navigation.antiqueProducts')}
-                            </Link>
-
-                            <Link
-                                to="/recept"
-                                className="transition-colors hover:text-white"
-                            >
-                                {t('navigation.recipe')}
-                            </Link>
-
-                            <Link
-                                to="/contact"
-                                className="transition-colors hover:text-white"
-                            >
-                                {t('navigation.contact')}
-                            </Link>
+                            { footerItems.map(item =>
+                                <Link
+                                    to={item.link}
+                                    className="transition-colors hover:text-white"
+                                >
+                                    {t(item.name)}
+                                </Link>
+                            )}
                         </nav>
                     </div>
 

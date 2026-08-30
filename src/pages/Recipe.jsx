@@ -89,9 +89,9 @@ export default function Recipe() {
                                     />
 
                                     <p>
-                    <span className="font-semibold">
-                      {t('recipe.bakingTimeLabel')}
-                    </span>{' '}
+                                        <span className="font-semibold">
+                                          {t('recipe.bakingTimeLabel')}
+                                        </span>{' '}
                                         {t('recipe.bakingTime')}
                                     </p>
                                 </div>
