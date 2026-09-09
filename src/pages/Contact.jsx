@@ -6,7 +6,8 @@ import {
     faPhone,
     faMessage,
 } from '@fortawesome/free-solid-svg-icons';
-import hero from '../images/home/hero.jpeg';
+import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+import hero from '../images/home/hero-three.jpeg';
 
 export default function Contact() {
     const { t } = useTranslation();
@@ -134,11 +135,13 @@ export default function Contact() {
                             </a>
 
                             <a
-                                href="tel:+31655162331"
+                                href="https://wa.me/31655162331"
+                                target="_blank"
+                                rel="noopener noreferrer"
                                 className="inline-flex items-center gap-2 rounded-full border border-[#8B4A32] px-6 py-3 font-medium text-[#8B4A32] transition hover:bg-[#8B4A32] hover:text-white"
                             >
-                                <FontAwesomeIcon icon={faPhone} />
-                                {t('contact.phoneButton')}
+                                <FontAwesomeIcon icon={faWhatsapp} />
+                                {t('contact.whatsappButton')}
                             </a>
                         </div>
                     </div>

@@ -6,7 +6,6 @@
   "navigation": {
     "home": "Home",
     "products": "Speculaas moulds",
-    "antiqueProducts": "Antique speculaas moulds",
     "recipe": "Recipe",
     "contact": "Contact",
     "openMenu": "Open menu",
@@ -24,14 +23,14 @@
     "description": "Do you have a question about our speculaas moulds or would you like to order one? Feel free to contact us.",
     "detailsEyebrow": "Anton & Willy",
     "detailsTitle": "Feel free to get in touch",
-    "detailsDescription": "Do you have a question about a speculaas mould, would you like more information or would you like to place an order? You can reach us by telephone or email.",
+    "detailsDescription": "Do you have a question about a speculaas mould, would you like more information or would you like to place an order? You can reach us by telephone, WhatsApp or email.",
     "phone": "Telephone",
     "email": "Email",
     "whatsapp": "WhatsApp",
     "address": "Address",
     "country": "The Netherlands",
     "emailButton": "Send an email",
-    "phoneButton": "Call us",
+    "whatsappButton": "Message us on WhatsApp",
     "imageAlt": "Anton and Willy",
     "imageText": "Speculaas moulds by Anton and Willy",
     "order": {
@@ -79,7 +78,7 @@
       "eyebrow": "Unique pieces",
       "title": "Antique Speculaas Moulds",
       "description": "Alongside our speculaas moulds, we also have antique pieces available. Wooden moulds with their own history and character.",
-      "button": "View antique moulds",
+      "button": "Contact us about our antique speculoos molds.",
       "imageAlt": "Antique wooden speculaas mould"
     },
     "contact": {
@@ -92,40 +91,49 @@
   "products": {
     "eyebrow": "Our collection",
     "title": "Speculaas Moulds",
-    "description": "Discover our collection of wooden speculaas moulds with traditional and distinctive designs.",
+    "description": "Discover our collection of wooden speculaas moulds featuring traditional and distinctive designs.",
     "dimensions": "Dimensions",
     "price": "Price",
     "items": {
-      "heart": {
-        "name": "Heart Speculaas Mould",
-        "description": "A wooden speculaas mould with a traditional heart design."
+      "c-tree-1": {
+        "name": "Christmas Tree Speculaas Mould",
+        "description": "A wooden speculaas mould featuring a festive Christmas tree design."
       },
-      "owl": {
+      "saint-1": {
+        "name": "Saint Nicholas Speculaas Mould",
+        "description": "A traditional wooden speculaas mould featuring Saint Nicholas."
+      },
+      "c-saint-1": {
+        "name": "Santa Claus Speculaas Mould",
+        "description": "A wooden speculaas mould featuring a festive Santa Claus design."
+      },
+      "w-mill-1": {
+        "name": "Windmill Speculaas Mould",
+        "description": "A traditional wooden speculaas mould featuring a windmill design."
+      },
+      "owl-1": {
         "name": "Owl Speculaas Mould",
         "description": "A distinctive wooden speculaas mould featuring an owl design."
       },
-      "santa": {
-        "name": "Santa Speculaas Mould",
-        "description": "A traditional speculaas mould with a festive Santa design."
-      }
-    }
-  },
-  "antiqueProducts": {
-    "eyebrow": "Unique pieces",
-    "title": "Antique Speculaas Moulds",
-    "description": "Discover our antique speculaas moulds, each with its own appearance and history.",
-    "items": {
-      "heart": {
-        "name": "Antique Heart Speculaas Mould",
-        "description": "An antique wooden speculaas mould featuring a classic heart design."
+      "cat-1": {
+        "name": "Cat Speculaas Mould",
+        "description": "A wooden speculaas mould featuring a cat design."
       },
-      "horse": {
-        "name": "Antique Horse Speculaas Mould",
-        "description": "A characterful antique speculaas mould featuring an horse design."
+      "heart-1": {
+        "name": "Heart Speculaas Mould",
+        "description": "A wooden speculaas mould featuring a traditional heart design."
       },
-      "windmill": {
-        "name": "Antique Windmill Speculaas Mould",
-        "description": "An antique wooden speculaas mould featuring a traditional windmill design."
+      "b-heart-1": {
+        "name": "Large Heart Speculaas Mould",
+        "description": "A large wooden speculaas mould featuring a traditional heart design."
+      },
+      "fish-1": {
+        "name": "Fish Speculaas Mould",
+        "description": "A wooden speculaas mould featuring a fish design."
+      },
+      "3-f-c-o-m-1": {
+        "name": "Cat, Owl & Windmill Speculaas Mould",
+        "description": "A long wooden speculaas mould featuring three different designs: a cat, owl and windmill."
       }
     }
   },

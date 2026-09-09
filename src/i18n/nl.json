@@ -6,7 +6,6 @@
   "navigation": {
     "home": "Home",
     "products": "Spekulaasplanken",
-    "antiqueProducts": "Antieke spekulaasplanken",
     "recipe": "Recept",
     "contact": "Contact",
     "openMenu": "Menu openen",
@@ -24,14 +23,14 @@
     "description": "Heeft u een vraag over onze spekulaasplanken of wilt u een plank bestellen? Neem gerust contact met ons op.",
     "detailsEyebrow": "Anton & Willy",
     "detailsTitle": "Neem gerust contact met ons op",
-    "detailsDescription": "Heeft u vragen over een spekulaasplank, wilt u meer informatie of wilt u een bestelling plaatsen? U kunt ons telefonisch of per e-mail bereiken.",
+    "detailsDescription": "Heeft u vragen over een spekulaasplank, wilt u meer informatie of wilt u een bestelling plaatsen? U kunt ons telefonisch, via WhatsApp of per e-mail bereiken.",
     "phone": "Telefoon",
     "email": "E-mail",
     "whatsapp": "WhatsApp",
     "address": "Adres",
     "country": "Nederland",
     "emailButton": "Stuur een e-mail",
-    "phoneButton": "Bel ons",
+    "whatsappButton": "WhatsApp ons",
     "imageAlt": "Anton en Willy",
     "imageText": "Spekulaasplanken van Anton en Willy",
     "order": {
@@ -79,7 +78,7 @@
       "eyebrow": "Bijzondere exemplaren",
       "title": "Antieke spekulaasplanken",
       "description": "Naast onze spekulaasplanken vindt u bij ons ook antieke exemplaren. Planken met een eigen geschiedenis en karakter.",
-      "button": "Bekijk de antieke planken",
+      "button": "Neem contact op voor onze antieke spekulaasplanken",
       "imageAlt": "Antieke houten spekulaasplank"
     },
     "contact": {
@@ -96,36 +95,45 @@
     "dimensions": "Afmetingen",
     "price": "Prijs",
     "items": {
-      "heart": {
-        "name": "Spekulaasplank Hart",
-        "description": "Een houten spekulaasplank met een traditioneel hartmotief."
+      "c-tree-1": {
+        "name": "Spekulaasplank Kerstboom",
+        "description": "Een houten spekulaasplank met een feestelijk kerstboommotief."
       },
-      "owl": {
+      "saint-1": {
+        "name": "Spekulaasplank Sint",
+        "description": "Een traditionele houten spekulaasplank met een Sint-motief."
+      },
+      "c-saint-1": {
+        "name": "Spekulaasplank Kerstman",
+        "description": "Een houten spekulaasplank met een feestelijk kerstmanmotief."
+      },
+      "w-mill-1": {
+        "name": "Spekulaasplank Molen",
+        "description": "Een traditionele houten spekulaasplank met een molenmotief."
+      },
+      "owl-1": {
         "name": "Spekulaasplank Uil",
         "description": "Een bijzondere houten spekulaasplank met een uilenmotief."
       },
-      "santa": {
-        "name": "Spekulaasplank Kerstman",
-        "description": "Een traditionele spekulaasplank met een feestelijk kerstmanmotief."
-      }
-    }
-  },
-  "antiqueProducts": {
-    "eyebrow": "Bijzondere exemplaren",
-    "title": "Antieke spekulaasplanken",
-    "description": "Ontdek onze antieke spekulaasplanken, ieder met een eigen uitstraling en geschiedenis.",
-    "items": {
-      "heart": {
-        "name": "Antieke spekulaasplank Hart",
-        "description": "Een antieke houten spekulaasplank met een klassiek hartmotief."
+      "cat-1": {
+        "name": "Spekulaasplank Kat",
+        "description": "Een houten spekulaasplank met een kattenmotief."
       },
-      "horse": {
-        "name": "Antieke spekulaasplank Paard",
-        "description": "Een karaktervolle antieke spekulaasplank met een traditioneel paard."
+      "heart-1": {
+        "name": "Spekulaasplank Hart",
+        "description": "Een houten spekulaasplank met een traditioneel hartmotief."
       },
-      "windmill": {
-        "name": "Antieke spekulaasplank Windmolen",
-        "description": "Een antieke houten spekulaasplank met een traditioneel windmolenmotief."
+      "b-heart-1": {
+        "name": "Spekulaasplank Groot Hart",
+        "description": "Een grote houten spekulaasplank met een traditioneel hartmotief."
+      },
+      "fish-1": {
+        "name": "Spekulaasplank Vis",
+        "description": "Een houten spekulaasplank met een vismotief."
+      },
+      "3-f-c-o-m-1": {
+        "name": "Spekulaasplank Kat, Uil & Molen",
+        "description": "Een lange houten spekulaasplank met drie verschillende motieven: een kat, uil en molen."
       }
     }
   },

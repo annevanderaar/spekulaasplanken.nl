@@ -7,7 +7,6 @@ export default function Footer() {
     const footerItems = [
         { link: '/', name: 'navigation.home' },
         { link: '/spekulaasplanken', name: 'navigation.products' },
-        { link: '/antieke-spekulaasplanken', name: 'navigation.antiqueProducts' },
         { link: '/recept', name: 'navigation.recipe' },
         { link: '/contact', name: 'navigation.contact' }
     ]

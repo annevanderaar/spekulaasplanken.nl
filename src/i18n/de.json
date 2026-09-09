@@ -6,7 +6,6 @@
   "navigation": {
     "home": "Startseite",
     "products": "Spekulatiusbretter",
-    "antiqueProducts": "Antike Spekulatiusbretter",
     "recipe": "Rezept",
     "contact": "Kontakt",
     "openMenu": "Menü öffnen",
@@ -24,14 +23,14 @@
     "description": "Haben Sie eine Frage zu unseren Spekulatiusbrettern oder möchten Sie ein Brett bestellen? Kontaktieren Sie uns gerne.",
     "detailsEyebrow": "Anton & Willy",
     "detailsTitle": "Nehmen Sie gerne Kontakt mit uns auf",
-    "detailsDescription": "Haben Sie Fragen zu einem Spekulatiusbrett, wünschen Sie weitere Informationen oder möchten Sie eine Bestellung aufgeben? Sie erreichen uns telefonisch oder per E-Mail.",
+    "detailsDescription": "Haben Sie Fragen zu einem Spekulatiusbrett, wünschen Sie weitere Informationen oder möchten Sie eine Bestellung aufgeben? Sie erreichen uns telefonisch, über WhatsApp oder per E-Mail.",
     "phone": "Telefon",
     "email": "E-Mail",
     "whatsapp": "WhatsApp",
     "address": "Adresse",
     "country": "Niederlande",
     "emailButton": "E-Mail senden",
-    "phoneButton": "Anrufen",
+    "whatsappButton": "Über WhatsApp kontaktieren",
     "imageAlt": "Anton und Willy",
     "imageText": "Spekulatiusbretter von Anton und Willy",
     "order": {
@@ -79,7 +78,7 @@
       "eyebrow": "Besondere Stücke",
       "title": "Antike Spekulatiusbretter",
       "description": "Neben unseren Spekulatiusbrettern finden Sie bei uns auch antike Exemplare. Bretter mit einer eigenen Geschichte und besonderem Charakter.",
-      "button": "Antike Bretter ansehen",
+      "button": "Kontaktieren Sie uns bezüglich unserer antiken Spekulatiusformen.",
       "imageAlt": "Antikes Spekulatiusbrett aus Holz"
     },
     "contact": {
@@ -92,40 +91,49 @@
   "products": {
     "eyebrow": "Unsere Kollektion",
     "title": "Spekulatiusbretter",
-    "description": "Entdecken Sie unsere Spekulatiusbretter aus Holz mit traditionellen und besonderen Motiven.",
+    "description": "Entdecken Sie unsere Kollektion aus Spekulatiusbrettern aus Holz mit traditionellen und besonderen Motiven.",
     "dimensions": "Maße",
     "price": "Preis",
     "items": {
-      "heart": {
-        "name": "Spekulatiusbrett Herz",
-        "description": "Ein Spekulatiusbrett aus Holz mit einem traditionellen Herzmotiv."
+      "c-tree-1": {
+        "name": "Spekulatiusbrett Weihnachtsbaum",
+        "description": "Ein Spekulatiusbrett aus Holz mit einem festlichen Weihnachtsbaummotiv."
       },
-      "owl": {
+      "saint-1": {
+        "name": "Spekulatiusbrett Nikolaus",
+        "description": "Ein traditionelles Spekulatiusbrett aus Holz mit einem Nikolausmotiv."
+      },
+      "c-saint-1": {
+        "name": "Spekulatiusbrett Weihnachtsmann",
+        "description": "Ein Spekulatiusbrett aus Holz mit einem festlichen Weihnachtsmannmotiv."
+      },
+      "w-mill-1": {
+        "name": "Spekulatiusbrett Windmühle",
+        "description": "Ein traditionelles Spekulatiusbrett aus Holz mit einem Windmühlenmotiv."
+      },
+      "owl-1": {
         "name": "Spekulatiusbrett Eule",
         "description": "Ein besonderes Spekulatiusbrett aus Holz mit einem Eulenmotiv."
       },
-      "santa": {
-        "name": "Spekulatiusbrett Weihnachtsmann",
-        "description": "Ein traditionelles Spekulatiusbrett mit einem festlichen Weihnachtsmannmotiv."
-      }
-    }
-  },
-  "antiqueProducts": {
-    "eyebrow": "Besondere Stücke",
-    "title": "Antike Spekulatiusbretter",
-    "description": "Entdecken Sie unsere antiken Spekulatiusbretter, jedes mit seiner eigenen Geschichte und Ausstrahlung.",
-    "items": {
-      "heart": {
-        "name": "Antikes Spekulatiusbrett Herz",
-        "description": "Ein antikes Spekulatiusbrett aus Holz mit einem klassischen Herzmotiv."
+      "cat-1": {
+        "name": "Spekulatiusbrett Katze",
+        "description": "Ein Spekulatiusbrett aus Holz mit einem Katzenmotiv."
       },
-      "horse": {
-        "name": "Antikes Spekulatiusbrett Pferd",
-        "description": "Ein charaktervolles antikes Spekulatiusbrett mit einem Pferdmotiv."
+      "heart-1": {
+        "name": "Spekulatiusbrett Herz",
+        "description": "Ein Spekulatiusbrett aus Holz mit einem traditionellen Herzmotiv."
       },
-      "windmill": {
-        "name": "Antikes Spekulatiusbrett Windmühle",
-        "description": "Ein antikes Spekulatiusbrett aus Holz mit einem traditionellen Windmühlenmotiv."
+      "b-heart-1": {
+        "name": "Spekulatiusbrett Großes Herz",
+        "description": "Ein großes Spekulatiusbrett aus Holz mit einem traditionellen Herzmotiv."
+      },
+      "fish-1": {
+        "name": "Spekulatiusbrett Fisch",
+        "description": "Ein Spekulatiusbrett aus Holz mit einem Fischmotiv."
+      },
+      "3-f-c-o-m-1": {
+        "name": "Spekulatiusbrett Katze, Eule & Windmühle",
+        "description": "Ein langes Spekulatiusbrett aus Holz mit drei verschiedenen Motiven: Katze, Eule und Windmühle."
       }
     }
   },

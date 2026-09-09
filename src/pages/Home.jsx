@@ -1,10 +1,11 @@
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import hero from '../images/home/hero.jpeg';
-import heart from '../images/home/heart.jpeg';
-import owl from '../images/home/owl.jpeg';
-import santa from '../images/home/santa.jpeg';
+import heroOne from '../images/home/hero-one.png';
+import heroTwo from '../images/home/hero-two.jpg';
 import antique from '../images/home/antique.jpg';
+import heart from '../images/products/heart-1.png';
+import owl from '../images/products/owl-1.png';
+import santa from '../images/products/c-saint-1.png';
 
 export default function Home() {
     const { t } = useTranslation();
@@ -64,7 +65,7 @@ export default function Home() {
                     <div className="relative">
                         <div className="overflow-hidden rounded-4xl bg-[#E8DDCF]">
                             <img
-                                src={hero}
+                                src={heroOne}
                                 alt={t('home.hero.imageAlt')}
                                 className="aspect-4/3 h-full w-full object-cover"
                             />
@@ -88,7 +89,7 @@ export default function Home() {
                     <div className="order-2 lg:order-1">
                         <div className="overflow-hidden rounded-4xl bg-[#E8DDCF]">
                             <img
-                                src={hero}
+                                src={heroTwo}
                                 alt={t('home.about.imageAlt')}
                                 className="aspect-4/3 h-full w-full object-cover"
                             />
@@ -182,7 +183,7 @@ export default function Home() {
                         </p>
 
                         <Link
-                            to="/antieke-spekulaasplanken"
+                            to="/contact"
                             className="mt-8 inline-flex rounded-full border border-[#8B4A32] px-6 py-3 font-medium text-[#8B4A32] transition hover:bg-[#8B4A32] hover:text-white"
                         >
                             {t('home.antique.button')}
